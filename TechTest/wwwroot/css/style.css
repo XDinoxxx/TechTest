@@ -1,0 +1,33 @@
+﻿body {
+    background: linear-gradient(to right, #f5f6fa, #e3e8f0);
+    font-family: 'Inter', sans-serif;
+}
+
+.card {
+    border-radius: 1.5rem;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+    padding: 2rem;
+    transition: all 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 12px 25px rgba(0, 0, 0, 0.15);
+}
+
+.btn-primary {
+    background: linear-gradient(135deg, #6a5af9, #9b5de5);
+    border: none;
+    transition: all 0.3s ease;
+}
+
+.btn-primary:hover {
+    background: linear-gradient(135deg, #9b5de5, #6a5af9);
+    transform: translateY(-2px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
+}
+
+.form-control:focus {
+    border-color: #6a5af9;
+    box-shadow: 0 0 0 0.2rem rgba(106, 90, 249, 0.25);
+}
