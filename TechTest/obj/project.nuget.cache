@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JOkr02+6hds=",
+  "dgSpecHash": "QDsn5N3M6y8=",
   "success": true,
-  "projectFilePath": "D:\\Fun\\TechTest\\TechTest\\TechTest.csproj",
+  "projectFilePath": "D:\\GitHub\\TechTest\\TechTest\\TechTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.8\\microsoft.aspnetcore.openapi.8.0.8.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
@@ -24,9 +24,9 @@
       "code": "NU1603",
       "level": "Warning",
       "message": "TechTest зависит от Swashbuckle.AspNetCore (>= 8.0.6), но версия Swashbuckle.AspNetCore 8.0.6 не найдена. Использовалась версия Swashbuckle.AspNetCore 8.1.0.",
-      "projectPath": "D:\\Fun\\TechTest\\TechTest\\TechTest.csproj",
+      "projectPath": "D:\\GitHub\\TechTest\\TechTest\\TechTest.csproj",
       "warningLevel": 1,
-      "filePath": "D:\\Fun\\TechTest\\TechTest\\TechTest.csproj",
+      "filePath": "D:\\GitHub\\TechTest\\TechTest\\TechTest.csproj",
       "libraryId": "Swashbuckle.AspNetCore",
       "targetGraphs": [
         "net8.0"
